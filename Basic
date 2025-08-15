@@ -1,0 +1,99 @@
+1. Write a Java program to print 'Hello' on screen and your name on a separate line.
+  Expected Output :
+  Hello
+  Jhesorley Laid
+
+2. Write a Java program to print the sum of two numbers.
+  Test Data:  21 + 32
+  Expected Output :
+  53
+
+3. Write a Java program to divide two numbers and print them on the screen.
+  Test Data:  21/3
+  Expected Output :
+  7
+
+4. Write a Java program to print the results of the following operations.
+  Test Data:
+  a. -5 + 8 * 6
+  b. (55+9) % 9
+  c. 20 + -3*5 / 8
+  d. 5 + 15 / 3 * 2 - 8 % 3
+  Expected Output :
+  43
+  1
+  19
+  13
+
+5. Write a Java program that takes two numbers as input and displays the product of the two numbers.
+  Test Data:
+  **HINT: Scanner sc = new Scanner(System.in); //to accept user input
+	  int firstnum = sc.nextInt();
+  Input first number: 25
+  Input second number: 5
+  Expected Output :
+  25 x 5 = 125
+
+6. Write a Java program to print the sum (addition), multiply, subtract, divide, and remainder of two numbers.
+  Test Data:
+  Input first number: 125
+  Input second number: 24
+  Expected Output :
+  125 + 24 = 149
+  125 - 24 = 101
+  125 x 24 = 3000
+  125 / 24 = 5
+  125 mod 24 = 5
+
+7. Write a Java program that takes a number as input and prints its multiplication table up to 10.
+  Test Data:
+  Input a number: 8
+  Expected Output :
+  8 x 1 = 8
+  8 x 2 = 16
+  8 x 3 = 24
+  ...
+  8 x 10 = 80 
+
+8. Write a Java program to print the area and perimeter of a circle.
+  Test Data:
+  Radius = 7.5
+  Expected Output
+  Perimeter is = 47.12388980384689
+  Area is = 176.71458676442586
+
+9. Write a Java program that takes three numbers as input to calculate and print the average of the numbers.
+  Output:
+  Enter first number: 12
+  Enter second number: 20
+  Enter third number: 10
+  Average: 14
+
+10. Write a Java program and compute the sum of an integer's digits.
+  Input Data:
+  Input an integer: 291
+  Expected Output
+  The sum of the digits is: 12
+
+11. Write a program that asks the following user details: name, date of birth, address, age, course, year, Name of School, and Year Graduated.
+  Output: (These fields are all user inputs)
+  Enter Name: Juan Dela Cruz
+  Enter Date of Birth: January 1, 2010
+  Address: Dinagat Islands
+  Age: 25
+  Course: BSIT
+  Year Level: 4
+  Secondary School Graduated: Dinagat School of Fisheries
+  Year: 2021
+  ==================== PERSONAL INFO ====================
+  NAME         : Juan Dela Cruz
+  DATE OF BIRTH: January 1, 2010
+  ADDRESS      : Dinagat Islands
+  AGE          : 25
+  COURSE       : BSIT
+  YEAR LEVEL   : 4
+
+==================== EDUCATIONAL INFO ====================
+SECONDARY LEVEL
+ NAME OF SCHOOL: Dinagat School of Fisheries
+           YEAR: 2021
