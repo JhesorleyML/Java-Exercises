@@ -1,0 +1,94 @@
+NOTE: THESE EXERCISES REQUIRE USER-INPUTTED VALUES
+
+1. Write a Java program to get a number from the user and print whether it is positive or negative.
+  Test Data
+  Input number: 35
+  Expected Output:
+  35 is positive
+
+2. Write a Java program to get a number from the user and print whether the number is divisible by 3 or not.
+  Test Data
+  Input number: 33
+  Expected Output:
+  33 is divisible by 3
+
+3. Write a Java program that takes three numbers from the user and prints the greatest number.
+  Test Data
+  Input the 1st number: 25
+  Input the 2nd number: 78
+  Input the 3rd number: 87
+  Expected Output :
+  The greatest: 87
+
+4. Write a Java program that takes a given year from the user and prints whether that year is a leap year or not
+  Test Data
+  Input year: 2024
+  Expected Output: 
+  2024 is a leap year.
+
+5. Write a Java program that requires the user to enter a single character from the alphabet. Print Vowel or Consonant, depending on user input. If the user input is not a letter (between a and z or A and Z), or is a string of length > 1, print an error message.
+  Test Data
+  Input an alphabet: p
+  Expected Output :
+  Input letter is Consonant
+
+6. Write a Java Program that creates a multiplication table based on a given range typed by the user
+  Test Data
+  Enter range: 6
+  Expected Output
+  1  2  3  4  5  6
+  2  4  6  8  10 12
+  3  6  9  12 15 18
+  4  8  12 16 20 24
+  5  10 15 20 25 30
+
+7. Create a Java program that asks a user for any number. If 0 is entered, the program will stop asking the user and print the sum of all numbers entered before it terminates. Provide an error statement if a non-number character is entered; however, this should not terminate the program
+   Test Data
+   Enter a number: 8
+   Enter a number: 10
+   Enter a number: 5
+   Enter a number: j
+   Error: invalid number!
+   Enter a number: 1
+   Enter a number 0
+   Expected Output:
+   Sum: 24
+
+8. Write a Java program to display the cube of the given number up to an integer.
+  Test Data
+  Input number of terms : 4
+  Expected Output :  
+  Number is : 1 and cube of 1 is : 1                                               
+  Number is : 2 and cube of 2 is : 8                                               
+  Number is : 3 and cube of 3 is : 27                                              
+  Number is : 4 and cube of 4 is : 64
+
+9. Write a Java program to display the pattern like a right angle triangle with a number.
+  Test Data
+  Input number of rows : 10
+  Expected Output :
+  1                                                                                
+  12                                                                               
+  123                                                                              
+  1234                                                                             
+  12345                                                                            
+  123456                                                                           
+  1234567                                                                          
+  12345678                                                                         
+  123456789                                                                        
+  12345678910
+  
+10. Write a Java program to generate the following * triangles.
+  Test Data
+  Input the number: 6
+  Expected Output :
+  ******                                                   
+   *****                                                   
+    ****                                                   
+     ***                                                   
+      **                                                   
+       *
+  
+
+ 
+  
