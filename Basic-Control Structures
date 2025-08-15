@@ -32,7 +32,7 @@ NOTE: THESE EXERCISES REQUIRE USER-INPUTTED VALUES
   Expected Output :
   Input letter is Consonant
 
-6. Write a Java Program that creates a multiplication table based on a given range typed by the user
+6. Write a Java Program that creates a multiplication table using loops based on a given range typed by the user
   Test Data
   Enter range: 6
   Expected Output
@@ -63,7 +63,7 @@ NOTE: THESE EXERCISES REQUIRE USER-INPUTTED VALUES
   Number is : 3 and cube of 3 is : 27                                              
   Number is : 4 and cube of 4 is : 64
 
-9. Write a Java program to display the pattern like a right angle triangle with a number.
+9. Write a Java program using loops to display the pattern like a right angle triangle with a number.
   Test Data
   Input number of rows : 10
   Expected Output :
@@ -78,7 +78,7 @@ NOTE: THESE EXERCISES REQUIRE USER-INPUTTED VALUES
   123456789                                                                        
   12345678910
   
-10. Write a Java program to generate the following * triangles.
+10. Write a Java program to generate the following * triangles using loops.
   Test Data
   Input the number: 6
   Expected Output :
