@@ -1,0 +1,38 @@
+NOTE: THESE EXERCISES REQUIRE USER INPUTTED VALUES.
+
+1. Write a Java program to convert temperature from Fahrenheit to Celsius degrees.
+  Test Data
+  Input a degree in Fahrenheit: 212
+  Expected Output:
+  212.0 degrees Fahrenheit is equal to 100.0 in Celsius
+
+2. Write a Java program that reads a number in inches and converts it to meters.
+  Note: One inch is 0.0254 meters.
+  Test Data
+  Input a value for inches: 1000
+  Expected Output :
+  1000.0 inches is 25.4 meters
+
+3. Write a Java program to convert minutes into years and days.
+  Test Data
+  Input the number of minutes: 3456789
+  Expected Output :
+  3456789 minutes is approximately 6 years and 210 days
+
+4. Write a Java program to compute the body mass index (BMI).
+  Test Data
+  Input weight in pounds: 452
+  Input height in inches: 72
+  Expected Output:
+  Body Mass Index is 61.30159143458721
+
+5. Write a Java program to take the user for a distance (in meters) and the time taken (as three numbers: hours, minutes, seconds), and display the speed, in meters per second, kilometers per hour and miles per hour (hint: 1 mile = 1609 meters).
+  Test Data
+  Input distance in meters: 2500
+  Input hour: 5
+  Input minutes: 56
+  Input seconds: 23
+  Expected Output :
+  Your speed in meters/second is 0.11691531
+  Your speed in km/h is 0.42089513
+  Your speed in miles/h is 0.26158804
